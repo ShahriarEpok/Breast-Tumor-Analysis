@@ -41,3 +41,4 @@ Checkpoints save the best models for each fold, ensuring the retrieval of optima
 Ensemble predictions from all k-fold models after cross-validation can further improve test accuracy and generalization.
 This pipeline is designed for flexibility and experimentation, allowing for adjustments to optimize breast tumor classification performance.
 
+Data Availability Statement: The data presented in this study are openly available in Dataset-I(Mendeley): (repository name, Mendeley Data) at (https://doi.org/10.17632/wmy84gzngw.1), accessed on 28 February 2020. Dataset-II(UDIAT): (repository name, Department of Computing and Mathematics, Manchester Metropolitan University) at (https://doi.org/10.1109/JBHI.2017.2731873), accessed on 21 April 2020. Dataset-III(BUSI): (repository name, Cairo University Scholars) at (https://doi.org/10.1016/j.dib.2019.104863), accessed on 13 December 2020.
